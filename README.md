@@ -20,6 +20,16 @@ In this repository, you can find the code for this three automation controllers 
  
 ![Model Layout](Model-Layout.png)
 
+For this model we propose install Mosquitto MQTT Broker:
+
+```
+wget http://repo.mosquitto.org/debian/mosquitto-repo.gpg.key
+sudo apt-key add mosquitto-repo.gpg.key
+cd /etc/apt/sources.list.d/
+sudo wget http://repo.mosquitto.org/debian/mosquitto-wheezy.list
+sudo apt-get update
+sudo apt-get install mosquitto
+```
  
  
  Eduardo Buetas Sanjuan
