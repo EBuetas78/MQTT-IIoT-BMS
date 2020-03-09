@@ -6,4 +6,4 @@ The program PropagadorAverias is maked in NetBeans 8.2 and is the Breakdown Mana
 
 To test this system you can try make the next messages:
 
-![Process Exchanges](ProcesosSistems.png)
+![Process Exchanges](ProcesosSistema.png)
