@@ -10,9 +10,9 @@ storing and distributing them to global systems.
 	As MQTT is a very light protocol, a publisher of this protocol can be integrated into platforms with few resources. 
 For example, for the prototype of our system we built three cases of automation controllers:
 
-		-PLC. Specifically in a Siemens PLC S7-1211C.
-    -Micro PC. Particularly with a Raspberry Pi 3 B+ Model. 
-    -Microprocessor. Using an Arduino MKR 1000 Model with Wifi Module.
+		- PLC. Specifically in a Siemens PLC S7-1211C.
+    - Micro PC. Particularly with a Raspberry Pi 3 B+ Model. 
+    - Microprocessor. Using an Arduino MKR 1000 Model with Wifi Module.
 
 This selection covers exemplars for possible automation systems, and is, a good test to show the MQTT protocol flexibility in different platforms.
  
