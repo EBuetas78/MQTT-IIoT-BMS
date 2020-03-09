@@ -18,7 +18,8 @@ This selection covers exemplars for possible automation systems, and is, a good 
  
 In this repository, you can find the code for this three automation controllers and the code for the BMS server.  
  
- 
+![Model Layout](Model-Layout.png)
+
  
  
  Eduardo Buetas Sanjuan
