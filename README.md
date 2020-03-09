@@ -31,5 +31,12 @@ sudo apt-get update
 sudo apt-get install mosquitto
 ```
  
+And as database system we use Postgre SQL:
+```
+sudo -u postgres psql
+```
+We can download the script to create database .../Server Prototype/breakdowns.sql
+
+
  
  Eduardo Buetas Sanjuan
