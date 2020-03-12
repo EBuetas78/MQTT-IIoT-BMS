@@ -1,9 +1,6 @@
 # MQTT-IIoT-BMS
 A propagation breakdown management model for the IIoT
-The industry, in the near future, will undergo a great evolution in the automation systems and, at the same time should integrate the current running systems. 
-These new in-use systems should be maintained and monitored with new tools and new processes. In this repository, we propose a propagation breakdown management model based on a common communication system to integrate any kind of 
-control devices: from the oldest PLCs to the newest “Cyber-Physical Systems”.
- 
+
 This model includes a fault propagation MQTT server capable of receiving the faults caused by the different systems,
 storing and distributing them to global systems. 
 
